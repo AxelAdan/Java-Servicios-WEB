@@ -10,5 +10,4 @@ Este repositorio contiene el ejercicio (código) y certificado de finalización 
 - Proyecto con Maven 
 - Lenguaje Java, en su versión 8 (jdk 8)
 - Spring Boot 2.7.5
-
-[Certificado de finalización del curso](https://github.com/AxelAdan/Java-Servicios-WEB/blob/master/Java%20-%20Servicios%20WEB.pdf)
+- [Certificado de finalización del curso](https://github.com/AxelAdan/Java-Servicios-WEB/blob/master/Java%20-%20Servicios%20WEB.pdf)
