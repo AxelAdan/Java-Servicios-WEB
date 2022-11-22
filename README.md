@@ -1,6 +1,6 @@
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="200" height="200"/>
-  <img src="https://niixer.com/wp-content/uploads/2020/11/spring-boot.png" height="200"/>
+  <img src="https://niixer.com/wp-content/uploads/2020/11/spring-boot.png" height="220"/>
 </div>
 
 # Java-Servicios-WEB
